@@ -1,0 +1,5 @@
+{
+    "minifyall.minifyOnSave": true,
+    "minifyall.minifyOnSaveToNewFile": true,
+    "minifyall.minifyNewFilePrefix": ".min"
+}
